@@ -1,0 +1,6 @@
+.profilepictre{
+	transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+
+}
